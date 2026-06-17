@@ -1,0 +1,19 @@
+﻿# Node
+/frontend/node_modules/
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+*.log
+
+# Generated artifacts
+backend/output.mp3
+backend/progress.db
+*.sqlite3
+.DS_Store
+.vscode/
